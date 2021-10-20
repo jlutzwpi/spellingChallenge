@@ -1,6 +1,8 @@
 # Spelling Challenge
 Python spelling challenge game for kids using computer vision.
 
+![alt text](https://github.com/jlutzwpi/spellingChallenge/blob/main/screenshots.png?raw=true)
+
 This was developed on a Jetson Nano. I started on the Raspberry Pi 4 (and ported over).
 Requires OpenCV and Tensorflow.  I created the model using the KaggleAZ dataset and Google Colab.
 My configuration is: 
