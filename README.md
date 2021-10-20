@@ -1,5 +1,5 @@
 # Spelling Challenge
-Python spelling challenge game for kids using computer vision.
+Python spelling challenge game for kids using computer vision.  A picture comes up with a letter missing from the word.  Since this is for my 5 year old, it's always the first letter, but I wrote the code so you can change the letter location.  Once you write in the letter, if it matches, the word is said in spanish and printed on the screen as well!
 
 ![alt text](https://github.com/jlutzwpi/spellingChallenge/blob/main/screenshots.png?raw=true)
 
